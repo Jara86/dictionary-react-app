@@ -14,7 +14,7 @@ function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="text-center mt-5">
-          <small>Coded by Your Name</small>
+          <small>Coded by Jarouschka Buis</small>
         </footer>
       </div>
     </div>
