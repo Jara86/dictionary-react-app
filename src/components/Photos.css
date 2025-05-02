@@ -1,10 +1,9 @@
-.Results h2 {
-  font-size: 36px;
-  font-weight: bold;
+.Photos img {
+  border-radius: 4px;
   margin-bottom: 20px;
 }
 
-.Results section {
+.Photos {
   background: white;
   padding: 30px;
   border-radius: 8px;
